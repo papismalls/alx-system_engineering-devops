@@ -1,2 +1,1 @@
 shell basics
-shell script
